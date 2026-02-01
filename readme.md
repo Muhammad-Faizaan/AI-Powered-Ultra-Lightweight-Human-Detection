@@ -14,6 +14,13 @@ A streamlined deep learning solution for **human detection** that prioritizes **
 - **Custom Dataset**: Built from MS‑COCO but refined for higher quality — ensuring meaningful detection beyond benchmark scores.  
 
 ---
+Input<img width="64" height="64" alt="521304208-59b941a4-86eb-41b9-9c0a-c367e6718b4c" src="https://github.com/user-attachments/assets/7b21a5fe-95eb-4eae-9a4f-13e46bda4477" />
+Output<img width="640" height="427" alt="521303415-5cb2e332-86eb-4933-bf80-3f500173306f" src="https://github.com/user-attachments/assets/e7d8b915-a9ea-47fc-a07d-9d3a34f8ab66" />
+
+Input<img width="64" height="64" alt="521304418-21791bff-2cf4-4a63-87b5-f6da52bb4964" src="https://github.com/user-attachments/assets/0699a92e-4ee9-4c23-b8b5-73711f9b97c1" />
+
+Output<img width="480" height="360" alt="521303645-ed0f9b67-7a05-4e31-8f43-8e82a468ad38" src="https://github.com/user-attachments/assets/86ffb871-8841-47dc-90ad-84a05adb51a4" />
+
 
 ## 📊 Model Options
 Choose the right balance of **speed vs. accuracy**:
