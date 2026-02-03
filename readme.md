@@ -1,5 +1,7 @@
 ### Ultra Lightweight Human Detection
 
+<img width="1536" height="1024" alt="BCO a1e4964a-56a6-4730-91d7-9a888ff3b049" src="https://github.com/user-attachments/assets/2ac72043-3586-4ab4-b00b-493dd79cd8d0" />
+
 ### 🚀 What This Project Is  
 A streamlined deep learning solution for **human detection** that prioritizes **speed, efficiency, and deployability**. Unlike heavyweight object detection frameworks, this project focuses on **ultra-compact models** that run seamlessly on constrained hardware while delivering reliable results.
 
