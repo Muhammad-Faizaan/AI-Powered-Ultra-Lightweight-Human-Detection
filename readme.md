@@ -1,4 +1,4 @@
-### Ultra Lightweight Human Detection
+### RealTime Ultra Lightweight Human Detection
 
 <img width="1536" height="1024" alt="BCO a1e4964a-56a6-4730-91d7-9a888ff3b049" src="https://github.com/user-attachments/assets/2ac72043-3586-4ab4-b00b-493dd79cd8d0" />
 
